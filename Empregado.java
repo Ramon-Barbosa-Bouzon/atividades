@@ -19,4 +19,8 @@ public class Empregado{
         return nome;
     }
     
+    public Empregado(){
+        
+    }
+
 }
